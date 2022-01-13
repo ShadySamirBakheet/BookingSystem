@@ -1,0 +1,87 @@
+{
+  
+  "_comment1":"any appp",
+
+  "appName":"نظام الحجز",
+  "appDesc":"Booking System for a Hotel that has several branches.",
+  "appDesc1":"The system deal with the hotel branches / locations. The booking needs to bein a specific branch / location of the hotel",
+  "appDesc2":"The system allow booking several rooms under one booking name.",
+  "appDesc3":"The system  give facility to booking rooms of different types, e.g., single, double, suite, and should allow booking multiple persons in a double room or a suite.",
+  "appDesc4":"The system  give a discounted price (95%) if the customer has booked previously in the hotel",
+  "Loading":"Loading",
+  "GetStart":"Get Start",
+  "WelcomeDear":"Welcome Dear",
+
+  "_comment2":"login system",
+
+  "OR":"OR",
+  "SkipLogin":"Skip Login",
+  "EnterYourEmail":"Enter Your Email",
+  "EnterYourphone":"Enter Your Phone",
+  "EnterYourname":"Enter Your Name",
+  "EnterYourAddress":"Enter Your Address",
+  "EnterYourCountry":"Enter Your Country",
+  "EnterYourState":"Enter Your State",
+  "EnterYourArea":"Enter Your Area",
+  "EnterYourPassword":"Enter Your Password",
+  "EnterConfirmPassword":"Enter Confirm Password",
+  "LoginByEmail":"Login By Email",
+  "Login":"Login",
+  "RegisterNow":"Register Now",
+  "ResetNow":"Reset Now",
+  "Registernow":"Don't have an account yet? Register now",
+  "Alreadyhavelogin":"Already have login and password? Sign in",
+  "ForgotPassword":"Forgot Password",
+  "ChangePassword":"Change Password",
+  "Enteroldpassword":"Enter old password",
+  "EnterNewpassword":"Enter New password",
+
+
+  "_comment3":"app values",
+
+  "SearchSubject":"Search for Subject ....",
+  "Home":"Home",
+  "Hotel":"Hotels",
+  "Menu":"Menu",
+  "AccountSettings":"Account Settings",
+  "SettingsApp":"Settings App",
+  "Explore":"Explore",
+  "Profile":"Profile",
+  "EditProfile":"Manage Profile",
+
+  "Start":"Start",
+  "View":"View",
+  "Save":"Save",
+  "info":"info",
+  "Share":"Share App",
+  "Rate":"Rate App",
+  "ContactUs":"Contact Us",
+  "AboutApp":"About App",
+
+  "EGP":"EGP",
+  "Single":"Single Room",
+  "Double":"Double Room",
+  "Suite":"Suite Room",
+  "Peoples":"People",
+  "SelectCheckinDate":"Select Check in Date",
+  "SelectCheckoutDate":"Select Check out Date",
+
+
+  "ReportToDay":"Report ToDay",
+  "NumberPeople":"Number People",
+  "Branchs":"Branchs",
+  "NotFound":"Not Found",
+  "BookNow":"Book Now",
+
+  "GetThemesFromSystem":"Get Themes From System",
+  "LightThemeMode":"Light Theme Mode",
+  "DarkThemeMode":"Dark Theme Mode",
+  "ChooseThemeApp":"Choose App Theme",
+  "ThemeApp":"App Theme",
+  "Apply":"Apply",
+
+  "ChooseLanguageApp":"Choose App Language",
+  "AppLanguage":"App Language"
+
+
+}

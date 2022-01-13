@@ -1,0 +1,88 @@
+{
+  
+  "_comment1":"any appp",
+
+  "appName":"التمهيدي الي النور",
+  "appDesc":"نظام الحجز لفندق له عدة فروع.",
+  "appDesc1":"يتعامل النظام مع فروع / مواقع الفندق. يجب أن يكون الحجز في فرع / موقع محدد من الفندق",
+  "appDesc2":"يسمح النظام بحجز عدة غرف تحت اسم حجز واحد.",
+  "appDesc3":"يمنح النظام تسهيلات لحجز الغرف من أنواع مختلفة ، على سبيل المثال ، فردية ، مزدوجة ، جناح ، ويجب أن يسمح بحجز عدة أشخاص في غرفة مزدوجة أو جناح.",
+  "appDesc4":"يعطي النظام سعرًا مخفضًا (95٪) إذا كان العميل قد حجز مسبقًا في الفندق",
+  "Loading":"جاري تحميل",
+  "GetStart":"ابدأ الآن",
+  "WelcomeDear":"مرحبا عزيزي",
+
+  "_comment2":"login system",
+
+  "OR":"أو",
+  "SkipLogin":"تخطي تسجيل الدخول",
+  "EnterYourEmail":"أدخل بريدك الإلكتروني",
+  "EnterYourname":"أدخل أسمك",
+  "EnterYourphone":"أدخل هاتفك",
+  "EnterYourAddress":"أدخل العنوان الخاص بك",
+  "EnterYourCountry":"أدخل بلدك",
+  "EnterYourState":"أدخل محافظتك",
+  "EnterYourArea":"أدخل منطقتك",
+  "EnterYourPassword":"أدخل كلمة المرور الخاصة بك",
+  "EnterConfirmPassword":"أدخل تأكيد كلمة المرور",
+  "LoginByEmail":"تسجيل الدخول بالبريد الإلكتروني",
+  "Login":"تسجيل الدخول",
+  "ResetNow":"إعادة التعيين الآن",
+  "RegisterNow":"سجل الان",
+  "Registernow":"لا تملك حسابا حتى الآن؟ سجل الان",
+  "Alreadyhavelogin":"لديك بالفعل تسجيل الدخول وكلمة المرور؟ تسجيل الدخول",
+  "ForgotPassword":"هل نسيت كلمة المرور",
+  "ChangePassword":"تغيير كلمة المرور",
+  "Enteroldpassword":"أدخل كلمة المرور القديمة",
+  "EnterNewpassword":"أدخل كلمة المرور جديدة",
+
+
+  "_comment3":"app values",
+
+  "SearchSubject":"ابحث عن موضوع ...",
+  "Home":"الصفحة الرئيسية",
+  "Hotel":"الفنادق",
+  "Menu":"الإعدادات",
+  "AccountSettings":"إعدادات الحساب",
+  "SettingsApp":"إعدادات التطبيق",
+  "Explore":"إستكشاف",
+  "Profile":"الصفحة الشخصية",
+  "EditProfile":"إدارة البيانات الشخصية",
+
+
+  "Start":"ابدأ",
+  "View":"عرض",
+  "Save":"حفظ",
+  "info":"معلومات",
+  "Share":"مشاركة التطبيق",
+  "Rate":"قيم التطبيق",
+  "ContactUs":"تواصل معنا",
+  "AboutApp":"حول التطبيق",
+
+  "EGP":"جنيه",
+  "Single":"غرفة مفردة",
+  "Double":"غرفة مزدوجة",
+  "Suite":"غرفة جناح",
+  "Peoples":"اشخاص",
+  "SelectCheckinDate":"حدد تاريخ الوصول",
+  "SelectCheckoutDate":"حدد تاريخ المغادرة",
+
+  "NumberPeople":"عدد الأشخاص",
+  "Branchs":"الفروع",
+  "ReportToDay":"تقرير اليوم",
+
+  "ChooseThemeApp":"اختر سمة التطبيق",
+  "ThemeApp":"سمة التطبيق",
+  "GetThemesFromSystem":"احصل على ثيمات من النظام",
+  "LightThemeMode":"وضع موضوع الضوء",
+  "DarkThemeMode":"وضع موضوع الداكنة",
+  "Apply":"تطبيق",
+  "NotFound":"لم يتم العثور على البيانات",
+  "BookNow":"احجز الآن",
+
+
+  "ChooseLanguageApp":"اختر لغة التطبيق",
+  "AppLanguage":"لغة التطبيق"
+
+
+}
